@@ -51,4 +51,12 @@ object Form1: TForm1
     TabOrder = 0
     Text = #1060#1048#1063#1040'-1'
   end
+  object Edit2: TEdit
+    Left = 200
+    Top = 48
+    Width = 121
+    Height = 21
+    TabOrder = 1
+    Text = #1060#1048#1063#1040'-2'
+  end
 end
