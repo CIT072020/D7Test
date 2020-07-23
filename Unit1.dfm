@@ -16,7 +16,7 @@ object Form1: TForm1
   object Label1: TLabel
     Left = 32
     Top = 24
-    Width = 120
+    Width = 79
     Height = 23
     Caption = #1040#1096#1080#1055#1082#1072'1'
     Color = clRed
@@ -31,7 +31,7 @@ object Form1: TForm1
   object Label2: TLabel
     Left = 32
     Top = 72
-    Width = 120
+    Width = 79
     Height = 23
     Caption = #1040#1096#1080#1055#1082#1072'2'
     Color = clRed
