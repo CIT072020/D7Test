@@ -19,6 +19,7 @@ type
   end;
 
 var
+  Version : string = '1.0.0';
   Form1: TForm1;
 
 implementation
